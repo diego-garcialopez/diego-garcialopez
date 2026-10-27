@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://cdn.dribbble.com/userupload/41870104/file/original-2b633babbb87748069a3c2924124a344.gif"
+    src="./header.gif"
     alt="Animated banner"
     width="100%"
   />
