@@ -7,7 +7,7 @@
   <img
     src="./header.gif"
     alt="Animated banner"
-    width="85%"
+    width="73%"
   />
 </p>
 
